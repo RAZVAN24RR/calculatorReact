@@ -52,14 +52,18 @@ input[type="text"] {
 #backspace {
   color: #262834;
 }
+
 button {
   margin: 5px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
   background: #5a5560;
-  color: #fff;
+  color: #262834;
   font-weight: 500;
+}
+.button-white {
+  color: #ffffff;
 }
 input:focus,
 input:active,
